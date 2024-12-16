@@ -12,7 +12,7 @@
       "fetchData": "[]",
       "filterEvenNumbers": "[]",
       "getGreeting": "[]",
-      "getNow": "[]",
+      "getNowInM": "[]",
       "logMessage": "[]",
       "reverseString": "[]",
       "setTimeoutExample": "[]"
@@ -78,7 +78,7 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "yetsblxfjy",
-        "label": "getNow",
+        "label": "getNowInM",
         "propertyName": "inputs.getNow"
       }
     },
