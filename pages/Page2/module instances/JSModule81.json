@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_fb0f5453-5551-410a-b7fe-3152b0150db0",
+  "id": "Page2_JSModule81",
+  "moduleUUID": "5eaf0817-e64a-4741-938c-ba315e70f51b",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "bilwmfmakf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "bilwmfmakf",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "ckhcaashdi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ckhcaashdi",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "ftoyybqivk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ftoyybqivk",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "jblurwbmdl": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jblurwbmdl",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "lhvdesqsih": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "lhvdesqsih",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "uhjmlgujgo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "uhjmlgujgo",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "witjomsjen": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "witjomsjen",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "zwxodwvwzr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zwxodwvwzr",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      }
+    },
+    "name": "JSModule81",
+    "pageId": "Page2"
+  }
+}

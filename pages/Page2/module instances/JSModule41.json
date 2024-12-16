@@ -1,0 +1,88 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_54b47f62-8ed6-49e3-9466-9b7e4bc69587",
+  "id": "Page2_JSModule41",
+  "moduleUUID": "4229c598-a5d3-4a36-bda1-966ad7e8f0dd",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "getNow": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "ckunjobjjy": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ckunjobjjy",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "jrgnzqhreu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jrgnzqhreu",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "kedilvsfko": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "kedilvsfko",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "qtuecvffxn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "qtuecvffxn",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "svagklmyzg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "svagklmyzg",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "uolgxlemqk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "uolgxlemqk",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "wzmnkpbzaf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "wzmnkpbzaf",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "xxaqtnlfel": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "xxaqtnlfel",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "yetsblxfjy": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "yetsblxfjy",
+        "label": "getNow",
+        "propertyName": "inputs.getNow"
+      }
+    },
+    "name": "JSModule41",
+    "pageId": "Page2"
+  }
+}

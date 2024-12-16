@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_9b893a8f-30a1-48d9-b87f-c711dd928ad9",
+  "id": "Page2 Copy1_JSModule61",
+  "moduleUUID": "ab3e57ae-4545-41cb-b755-d58b7bb4ca9e",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "bikimvecog": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "bikimvecog",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "dcrogcwqrd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "dcrogcwqrd",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "fhvxdvrjca": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "fhvxdvrjca",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "iboxkkpktp": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "iboxkkpktp",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "otglfjvffs": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "otglfjvffs",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "tnmomtkphr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "tnmomtkphr",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "ufbrumzpvv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ufbrumzpvv",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "vzjcrkbtkc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "vzjcrkbtkc",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      }
+    },
+    "name": "JSModule61",
+    "pageId": "Page2 Copy1"
+  }
+}

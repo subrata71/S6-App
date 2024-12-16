@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_a0c93f67-4b2b-4076-9018-7f4dab72a2c6",
+  "id": "Page2_JSModule51",
+  "moduleUUID": "41ec863e-4b30-48e3-b273-a3bc1ca00489",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "enkplrghcd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "enkplrghcd",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "gfejldboru": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "gfejldboru",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "huljrubnrx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "huljrubnrx",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "ikhprqyjqq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ikhprqyjqq",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "jztyprvlfl": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jztyprvlfl",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "mjfgyyoqbo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "mjfgyyoqbo",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "upvrznwnbu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "upvrznwnbu",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "zvmnqnzvwq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zvmnqnzvwq",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      }
+    },
+    "name": "JSModule51",
+    "pageId": "Page2"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_9c95b5d6-943e-4ea6-ac18-4368157a07cb",
+  "id": "Page2 Copy_JSModule91",
+  "moduleUUID": "a44830e7-0da8-45b2-864d-838c5ee92055",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "aldfhadesz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "aldfhadesz",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "fljbemptpc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "fljbemptpc",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "fmwucilyml": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "fmwucilyml",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "gxbpysncwt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "gxbpysncwt",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "hrfocgqrbv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hrfocgqrbv",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "kwmhlyicca": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "kwmhlyicca",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "lhxjccqsph": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "lhxjccqsph",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "nfxvklcmka": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "nfxvklcmka",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      }
+    },
+    "name": "JSModule91",
+    "pageId": "Page2 Copy"
+  }
+}

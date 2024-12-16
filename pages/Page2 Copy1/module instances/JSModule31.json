@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_e25d5803-cf2c-47a9-bac7-10f88e495b86",
+  "id": "Page2 Copy1_JSModule31",
+  "moduleUUID": "86732b72-d65f-4787-983b-eac586d3be47",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "ayicaukiyi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ayicaukiyi",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "ceaucgyaof": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ceaucgyaof",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "csglphujoo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "csglphujoo",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "esmdsjgood": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "esmdsjgood",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "inoidibejf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "inoidibejf",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "kfmordhjxx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "kfmordhjxx",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "spdsjcsjmo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "spdsjcsjmo",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "ywytkyyowr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ywytkyyowr",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      }
+    },
+    "name": "JSModule31",
+    "pageId": "Page2 Copy1"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_a1db4700-f24f-4a10-8cbc-b8f5e47cb998",
+  "id": "Page2 Copy1_JSModule21",
+  "moduleUUID": "f28fa4ba-9a82-49c6-bfd9-778cf8cb39ba",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "ddpjxzgeuq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ddpjxzgeuq",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      },
+      "esgghwyton": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "esgghwyton",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "gyjqwlfnzp": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "gyjqwlfnzp",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "juvkyzqvwj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "juvkyzqvwj",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "olpkwmqxko": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "olpkwmqxko",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "psfqcjwtox": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "psfqcjwtox",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "vtpaajvlub": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "vtpaajvlub",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "zoztnlpyta": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zoztnlpyta",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      }
+    },
+    "name": "JSModule21",
+    "pageId": "Page2 Copy1"
+  }
+}

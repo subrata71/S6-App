@@ -1,0 +1,80 @@
+{
+  "gitSyncId": "6760044ff8e58472f0a0be1b_6a043f9d-dcc9-4116-9591-25096d50c2f3",
+  "id": "Page2 Copy1_JSModule101",
+  "moduleUUID": "2dba1526-4386-43b9-bbd3-9440b9c6fe1a",
+  "packageUUID": "8ca3bec0-4136-4357-ad86-2dd5b066bbc0",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addNumbers": "[]",
+      "containsWord": "[]",
+      "fetchData": "[]",
+      "filterEvenNumbers": "[]",
+      "getGreeting": "[]",
+      "logMessage": "[]",
+      "reverseString": "[]",
+      "setTimeoutExample": "[]"
+    },
+    "moduleInputs": {
+      "gvnlrmeyyg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "gvnlrmeyyg",
+        "label": "containsWord",
+        "propertyName": "inputs.containsWord"
+      },
+      "hdpivyvqdn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hdpivyvqdn",
+        "label": "logMessage",
+        "propertyName": "inputs.logMessage"
+      },
+      "hmthmexttt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "hmthmexttt",
+        "label": "filterEvenNumbers",
+        "propertyName": "inputs.filterEvenNumbers"
+      },
+      "ivokemsxln": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ivokemsxln",
+        "label": "setTimeoutExample",
+        "propertyName": "inputs.setTimeoutExample"
+      },
+      "uuayjeqqvr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "uuayjeqqvr",
+        "label": "getGreeting",
+        "propertyName": "inputs.getGreeting"
+      },
+      "xhehesnrml": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "xhehesnrml",
+        "label": "addNumbers",
+        "propertyName": "inputs.addNumbers"
+      },
+      "ygfxuktlak": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ygfxuktlak",
+        "label": "fetchData",
+        "propertyName": "inputs.fetchData"
+      },
+      "ywsiydybyg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ywsiydybyg",
+        "label": "reverseString",
+        "propertyName": "inputs.reverseString"
+      }
+    },
+    "name": "JSModule101",
+    "pageId": "Page2 Copy1"
+  }
+}
